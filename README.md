@@ -1,0 +1,1 @@
+twitter_api.py is the main module of this project. Function get_json(name) returns json for an account with given name. Function get_data(json, type) returns data of given type from given json object.
